@@ -1,0 +1,5 @@
+flask
+numpy
+tensorflow
+networkx
+opencv-python
