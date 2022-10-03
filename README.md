@@ -1,5 +1,5 @@
 
-# CameraSys
+# Edge-assisted Video Analytics
 
 ### Setup environment
 
